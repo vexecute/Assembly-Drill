@@ -1,4 +1,5 @@
-# Assembly - Crash Course (in progress)
+# What is Assembly?  
+## Crash Course (in progress)
 
 When you try to run the C code, it is read by the compiler. This compiler will convert all the instructions into op codes (operation code). Understanding the op codes is very difficult because every executable has thousands of op codes. That is why assembly language was created. This converts the compiled instructions into human readable language.
 
