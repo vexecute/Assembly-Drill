@@ -15,7 +15,7 @@ Every C program has 4 main components ⇒ Basic elements of executable:
 ## Example:
 
 ![1](https://github.com/vexecute/Assembly-Drill/assets/92919686/dfd0aea6-c8a8-4f4f-95f5-6755c07eb841)
-- **`registers` -** used to store addresses and values (anything that can be represented as 8bytes or less). In x86 arch there are 6 general purpose registers `**eax,ebx,ecx,edx,esi,edi`** and there three reserved registers `**ebp,esp,eip**`
+- **`registers` -** used to store addresses and values (anything that can be represented as 8bytes or less). In x86 arch there are 6 general purpose registers **eax,ebx,ecx,edx,esi,edi** and there three reserved registers **ebp,esp,eip**
 
 - **`instructions` -** assembly instructions which are of format
 
