@@ -8,7 +8,7 @@ When you try to run the C code, it is read by the compiler. This compiler will c
 
 Every C program has 4 main components ⇒ Basic elements of executable:
 
-- **`heap` -** - designed for manual memory allocation (memory is allocated in heap when functions like malloc and calloc is called as well as when global or static variables are declared)
+- **`heap` -**  designed for manual memory allocation (memory is allocated in heap when functions like malloc and calloc is called as well as when global or static variables are declared)
 - **`stack` -** a data structure that are compiled with elements which can be added or removed using push(add element to the top or stack) or pop(remove an element from the top of stack). Elements that are higher in the stack have lower address than those in the bottom of the stack. Whenever a function is called it is setup as what is called stack frame. All the local variables of the function are stored in a stack frame. Now comes these two registers **ebp** and **esp**. **ebp**(e base pointer) contains the base address of the current stack frame whereas **esp** (e stack pointer) contains the stack pointer of the top element of the stack frame. All addresses outside the current stack frame are called as junk addresses.
 
 ## Example:
