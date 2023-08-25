@@ -23,14 +23,14 @@ Every C program has 4 main components ⇒ Basic elements of executable:
   
      operation arg1, arg2 (with two arguments)
 
--    ⇒ **`mov` -** move instruction
+⇒ **`mov` -** move instruction
 
 ![2](https://github.com/vexecute/Assembly-Drill/assets/92919686/f951c285-4cdc-4c8c-bbcb-6473a40a47b6)
 
--    ⇒ **`add` -** adds two arguments and stores it in the first argument.
-
--    ⇒ **`sub` -** similar to add but it subtracts
-
--    ⇒ **`push/pop` -** used for pushing and removing elements from the stack
+   ⇒ **`add` -** adds two arguments and stores it in the first argument.  
+   
+   ⇒ **`sub` -** similar to add but it subtracts  
+   
+   ⇒ **`push/pop` -** used for pushing and removing elements from the stack
 
 ![3](https://github.com/vexecute/Assembly-Drill/assets/92919686/87da4940-e897-4cfe-853e-d78bb6398022)
